@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 // 上传地址
                 String url = "http://192.168.137.1:8080/okhttp_server/postFile";
                 // 本地图片地址
-                File file = new File(canonicalPath, "xjy.jpg");
+                File file = new File(canonicalPath, "cc.jpg");
 
                 // 打印文件长度
                 long length = file.length();
